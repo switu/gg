@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BA9FCCD-B41D-4329-B3FA-1EF8B4F7E37F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>dfd</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED602164-F5EB-4ACC-B814-7A741217A6F0</key>
+		<string>https://github.com/switu/gg.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>dfd/dfd.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED602164-F5EB-4ACC-B814-7A741217A6F0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/switu/gg.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED602164-F5EB-4ACC-B814-7A741217A6F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED602164-F5EB-4ACC-B814-7A741217A6F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
